@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-RID16-06-PHSEND000-recovered_host-phsen_abcdef_dcl_instrument_recovered
 data_stream: CE06ISSM-RID16-06-PHSEND000-recovered_host-phsen_abcdef_dcl_instrument_recovered
 end_date: '2021-02-15T21:31:55.000Z'
-last_updated: '2021-07-19T20:19:02.408684Z'
+last_updated: '2021-07-19T20:20:28.748215'
 start_date: '2014-10-07T19:45:00.000Z'
-status: pending
+status: success
